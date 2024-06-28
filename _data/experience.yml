@@ -4,12 +4,25 @@
   position: Researcher
   duration: Sep, 2020 &mdash; Present
   url: "https://www.keti.re.kr/main/main.php"
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
+  summary: Autonomous Vehicle Research Team, Mobility Platform Research Center
     <ul class="resume-item-list">
       <li>Trajectory prediction for autonomous vehicles</li>
-      <li>HD map managment for prediction module</li>
+      <li>Conversion of the prediction module to other platforms</li>
+      <li>HD map management for prediction module</li>
       <li>Visualization the current state and perception results of autonomous vehicles</li>
       <li>V2X for autonomous systems</li>
+    </ul>
+
+- company: MISYS Lab, Soongsil University
+  position: Research Intern
+  duration: Jan, 2018 &mdash; Sep, 2019
+  url: "https://sites.google.com/view/misysssu"
+  summary: Autonomous Vehicle Development Team
+    <ul class="resume-item-list">
+      <li>Planning trajectory following</li>
+      <li>Development of CAN interface</li>
+      <li>Development of V2X interface</li>
+      <li>Software version management using Docker</li>
     </ul>
 
 # Director of Digital Stratgy
