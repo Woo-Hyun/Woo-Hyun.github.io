@@ -8,16 +8,22 @@
   duration: 2012 &mdash; Present
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+    <ul class="resume-item-list">
+      <li>Trajectory prediction for autonomous vehicles</li>
+      <li>Conversion of the prediction module to other platforms</li>
+      <li>HD map management for prediction module</li>
+      <li>Visualization the current state and perception results of autonomous vehicles</li>
+      <li>V2X for autonomous systems</li>
+    </ul>
 
 - project: Enhancing Trajectory Prediction with texual description
   role: Founder & Primary Developer
   duration: 2012 &mdash; Present
-  url: "https://www.youtube.com/watch?v=Li_RDBtCD3"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
 - project: 자율주행 경진대회
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
-  # url: "#"
+  url: "https://www.youtube.com/watch?v=Li_RDBtCD3c&t=1s&ab_channel=KyujinChoi"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
