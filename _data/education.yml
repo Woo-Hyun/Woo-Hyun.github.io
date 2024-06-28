@@ -3,10 +3,11 @@
 - degree: Master of Science, Computer Science
   uni: Korea University
   year: 2022 &mdash; 2024
+  advisor: Professor Jinkyu Kim
   # awards:
   #   - award: Dean's List
   #   - award: Graduate Research Fellowship
-  summary: You can write a brief summary of your experience here
+  summary: Vision & AI Lab, Department of Computer Science and Engineering
 
 - degree: Bachelor of Science, Computer Science
   uni: Soongsil University
@@ -18,5 +19,5 @@
 - degree: High School Diploma
   uni: Uijeongbu High School
   year: 2011
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  # award: Most likely to succeed
+  # summary: You can choose to have either a single or multiple awards

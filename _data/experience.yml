@@ -7,6 +7,7 @@
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
     <ul class="resume-item-list">
       <li>Trajectory prediction for autonomous vehicles</li>
+      <li>HD map managment for prediction module</li>
       <li>Visualization the current state and perception results of autonomous vehicles</li>
       <li>V2X for autonomous systems</li>
     </ul>
