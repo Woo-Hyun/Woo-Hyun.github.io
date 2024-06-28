@@ -17,14 +17,12 @@
   position: Research Intern
   duration: Jan, 2018 &mdash; Sep, 2019
   url: "https://sites.google.com/view/misysssu"
-  # youtube_url: "https://www.youtube.com/watch?v=Li_RDBtCD3c"
   summary: Autonomous Vehicle Development Team
     <ul class="resume-item-list">
       <li>Planning trajectory following</li>
       <li>Development of CAN interface</li>
       <li>Development of V2X interface</li>
       <li>Software version management using Docker</li>
-      # <li><a href="{{ youtube_url }}" target="_blank">LINK</a></li>
     </ul>
 
 # Director of Digital Stratgy
