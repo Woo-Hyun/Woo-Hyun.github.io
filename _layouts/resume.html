@@ -66,7 +66,7 @@
             {% endif %}
           </h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary | replace: "{{ youtube_url }}", job.youtube_url }}</p>
+          <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -81,10 +81,16 @@
         <header class="section-header">
           <h2>Education</h2>
         </header>
-      
+
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
+          <h3 class="resume-item-title" itemprop="name">
+            {% if education.url %}
+              <a href="{{ education.url }}" target="_blank">{{ education.uni }}</a>
+            {% else %}
+              {{ education.uni }}
+            {% endif %}
+          </h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           {% if education.advisor %}
           <h5 class="resume-item-details group" itemprop="description">Advisor: {{ education.advisor }}</h5>
@@ -99,7 +105,7 @@
             </ul>
           </p>
           {% endif %}
-          <p class="resume-item-copy">{{ education.summary }}</p>
+          <p class="resume-item-copy">{{ education.summary | markdownify }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
       </section>
