@@ -2,17 +2,20 @@
 - skill: C, C++
   description: Fluent in C and C++ programming languages
 
-- skill: Python
+- skill: Python (PyTorch, numpy, etc.)
   description: Familiar with Python for deep learning
 
 - skill: Linux and Shell
   description: Familiar with Linux and Shell scripting
 
 - skill: ROS
-  description: Can understand most code and perform maintenance
+  description: Can understand most code and perform maintenance/development
 
 - skill: Git and Docker
   description: Capable of using functionalities necessary for collaboration
 
 - skill: Soft Skills
   description: Teamwork, Documentation, Latex(Overleaf)
+
+- skill: Others
+  description: Basic knowledge of C#, Java, and Unity Engine
