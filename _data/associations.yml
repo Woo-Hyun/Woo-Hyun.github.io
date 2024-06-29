@@ -1,13 +1,27 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- title: "VisionTrap: Vision‑Augmented Trajectory Prediction Guided by Textual Descriptions"
+  conference: ECCV (under review)
+  year: 2024
+  authors: 2nd Author
+
+- title: "RUFI: Reducing Uncertainty in behavior prediction with Future Information"
+  conference: CVPRW
+  year: 2023
+  authors: Seokha Moon, Sejeong Lee, <strong>Hyun Woo</strong>, Kyuhwan Yeon, Hayoung Kim, Seong‑Gyun Jeong, Jinkyu Kim
+
+- title: 사전 학습된 Image Captioning 모델의 특수 도메인 데이터셋을 통한 미세 조정에 대한 연구
+  conference: 대한전자공학회 하계학술대회
+  year: 2023
+  authors: <strong>우 현</strong>, 김진규
+
+- title: Multi-head Attention 기반 도로 참여자의 이동 경로 예측에 관한 연구
+  conference: 대한전자공학회 하계학술대회
+  year: 2023
+  authors: <strong>우 현</strong>, 박창규, 이선영, 심영보, 민경원
+
 - title: OBD vs. CAN 기반 순항 제어 알고리즘의 성능 평가
   conference: 한국컴퓨터종합학술대회
   year: 2019
-  authors: <b>우 현</b>, 최규진, 김강희
-
-
-- title: Yale Amnesty International
-  conference: Communications coordinator
-  year: 2002 &mdash; 2004
-  authors: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+  authors: <strong>우 현</strong>, 최규진, 김강희
