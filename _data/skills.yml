@@ -1,12 +1,18 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: C, C++
+  description: Fluent in C and C++ programming languages
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Python
+  description: Familiar with Python for deep learning
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Linux and Shell
+  description: Familiar with Linux and Shell scripting
+
+- skill: ROS
+  description: Can understand most code and perform maintenance
+
+- skill: Git and Docker
+  description: Capable of using functionalities necessary for collaboration
+
+- skill: Soft Skills
+  description: Teamwork, Documentation, Latex(Overleaf)
