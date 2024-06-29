@@ -7,24 +7,56 @@
   role: Researcher & Module Manager
   duration: Sep, 2021 &mdash; Present
   url: "https://youtu.be/J1NKhE-_S3M"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Prediction task mananger for autonomous vehicles
     <ul class="resume-item-list">
       <li>Trajectory prediction for autonomous vehicles</li>
       <li>Conversion of the prediction module to other platforms</li>
+      <li>Porting the prediction module to embedded environments</li>
       <li>Improvement of scenario classification algorithm for prediction module</li>
       <li>Optimization of predicted trajectories</li>
       <li>HD map management for prediction module</li>
     </ul>
 
-- project: Enhancing Trajectory Prediction with texual description
+- project: Improving performance in trajectory prediction through increased modality
   role: Researcher
   duration: Apr, 2023 &mdash; Present
   url: "https://youtu.be/v1qoIh0o_Hw"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Researcher for the generation of text datasets for trajectory prediction
+    <ul class="resume-item-list">
+      <li>Generating a text dataset that describes objects in images based on an existing dataset</li>
+      <li>Fine-tuning a generic VLM with a dataset optimized for traffic situations</li>
+      <li>Text refinement through LLM</li>
+      <li>Conducting human evaluation and statistical analysis of the generated text dataset</li>
+    </ul>
+
+- project: 자율주행 서비스 검증을 위한 테스트 시나리오 생성 및 멀티에이전트 시뮬레이션 플랫폼 개발
+  role: Researcher
+  duration: Apr, 2021 &mdash; Aug, 2022
+  description: Researcher for the test scenario and traffic simulation
+    <ul class="resume-item-list">
+      <li>Test scenario creation and management</li>
+      <li>Integration of traffic flow simulator and autonomous driving algorithm verification simulator for NPC operation</li>
+    </ul>
+
+- project: 자율주행 차량 상태 및 주변 환경 시각화 플랫폼 개발
+  role: Researcher
+  duration: Sep, 2020 &mdash; Mar, 2021
+  description: Researcher for the visualization module
+    <ul class="resume-item-list">
+      <li>Development of a monitoring application for autonomous driving system output information based on a game engine</li>
+      <li>HD map visualization</li>
+      <li>Development of sensor power control application</li>
+    </ul>
 
 # Springfield Community Outreach Group
-- project: 2019 대학생 자율주행자동차 경진대회 (현대자동차그룹, 한국교통안전공단)
+- project: 2019 대학생 자율주행자동차 경진대회
   role: Researcher & Developer
   duration: Sep, 2018 &mdash; Sep, 2019
   url: "https://www.youtube.com/watch?v=CXIlXaGeKZo&t=92s&ab_channel=KyujinChoi"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 현대자동차그룹, 한국교통안전공단 주최 자율주행 경진대회 숭실대 팀원
+    <ul class="resume-item-list">
+      <li>Planning trajectory following</li>
+      <li>Development of CAN interface</li>
+      <li>Development of V2X interface</li>
+      <li>Software version management using Docker</li>
+    </ul>

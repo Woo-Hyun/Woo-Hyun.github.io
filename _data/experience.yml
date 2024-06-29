@@ -21,9 +21,9 @@
   summary: Autonomous Vehicle Development Team
     <ul class="resume-item-list">
       <li>Planning trajectory following</li>
-      <li>Development of CAN interface</li>
-      <li>Development of V2X interface</li>
+      <li>Development of CAN and V2X interface</li>
       <li>Software version management using Docker</li>
+      <li>Research for system call and device driver</li>
     </ul>
 
 # Director of Digital Stratgy
