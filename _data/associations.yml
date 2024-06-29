@@ -1,15 +1,13 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- title: OBD vs. CAN 기반 순항 제어 알고리즘의 성능 평가
+  conference: 한국컴퓨터종합학술대회
+  year: 2019
+  authors: <strong>우 현</strong>, 최규진, 김강희
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
+- title: Yale Amnesty International
+  conference: Communications coordinator
   year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+  authors: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
