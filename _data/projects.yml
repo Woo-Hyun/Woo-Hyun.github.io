@@ -9,12 +9,12 @@
   url: "https://youtu.be/J1NKhE-_S3M"
   description: Prediction task mananger for autonomous vehicles
     <ul class="resume-item-list">
-      <li>Trajectory prediction for autonomous vehicles</li>
+      <li>Development and maintenance of autonomous vehicle trajectory prediction module</li>
       <li>Conversion of the prediction module to other platforms</li>
       <li>Porting the prediction module to embedded environments</li>
       <li>Improvement of scenario classification algorithm for prediction module</li>
       <li>Optimization of predicted trajectories</li>
-      <li>HD map management for prediction module</li>
+      <li>Verification and management of SHP and OpenDRIVE HD maps</li>
     </ul>
 
 - project: Improving performance in trajectory prediction through increased modality
@@ -35,7 +35,7 @@
   description: Researcher for the test scenario and traffic simulation
     <ul class="resume-item-list">
       <li>Test scenario creation and management</li>
-      <li>Integration of traffic flow simulator and autonomous driving algorithm verification simulator for NPC operation</li>
+      <li>Integration of the Carla with SUMO and operation of NPCs through this integration</li>
     </ul>
 
 - project: 자율주행 차량 상태 및 주변 환경 시각화 플랫폼 개발
@@ -43,7 +43,7 @@
   duration: Sep, 2020 &mdash; Mar, 2021
   description: Researcher for the visualization module
     <ul class="resume-item-list">
-      <li>Development of a monitoring application for autonomous driving system output information based on a game engine</li>
+      <li>Development of visualization module for autonomous vehicle’s status and environmental perception informations using game engine</li>
       <li>HD map visualization</li>
       <li>Development of sensor power control application</li>
     </ul>
@@ -55,8 +55,8 @@
   url: "https://www.youtube.com/watch?v=CXIlXaGeKZo&t=92s&ab_channel=KyujinChoi"
   description: 현대자동차그룹, 한국교통안전공단 주최 자율주행 경진대회 숭실대 팀원
     <ul class="resume-item-list">
-      <li>Planning trajectory following</li>
-      <li>Development of CAN interface</li>
-      <li>Development of V2X interface</li>
-      <li>Software version management using Docker</li>
+      <li>Development of longitudinal and lateral control for autonomous vehicle</li>
+      <li>Development of vehicle CAN data transmission and reception module</li>
+      <li>Development of V2X reception module</li>
+      <li>Version management of autonomous driving software via Docker</li>
     </ul>
