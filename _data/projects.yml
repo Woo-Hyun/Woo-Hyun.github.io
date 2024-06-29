@@ -9,7 +9,7 @@
   url: "https://youtu.be/J1NKhE-_S3M"
   description: Prediction task mananger for autonomous vehicles
     <ul class="resume-item-list">
-      <li>Development and maintenance of autonomous vehicle trajectory prediction module</li>
+      <li>Development and maintenance of autonomous vehicle trajectory prediction module based on Apollo platform</li>
       <li>Conversion of the prediction module to other platforms</li>
       <li>Porting the prediction module to embedded environments</li>
       <li>Improvement of scenario classification algorithm for prediction module</li>
@@ -23,7 +23,7 @@
   url: "https://youtu.be/v1qoIh0o_Hw"
   description: Researcher for the generation of text datasets for trajectory prediction
     <ul class="resume-item-list">
-      <li>Generating a text dataset that describes objects in images based on an existing dataset</li>
+      <li>Generating a text dataset that describes objects in images</li>
       <li>Fine-tuning a generic VLM with a dataset optimized for traffic situations</li>
       <li>Text refinement through LLM</li>
       <li>Conducting human evaluation and statistical analysis of the generated text dataset</li>
@@ -55,7 +55,7 @@
   url: "https://www.youtube.com/watch?v=CXIlXaGeKZo&t=92s&ab_channel=KyujinChoi"
   description: 현대자동차그룹, 한국교통안전공단 주최 자율주행 경진대회 숭실대 팀원
     <ul class="resume-item-list">
-      <li>Development of longitudinal and lateral control for autonomous vehicle</li>
+      <li>Verification/Development of longitudinal and lateral control for autonomous vehicle</li>
       <li>Development of vehicle CAN data transmission and reception module</li>
       <li>Development of V2X reception module</li>
       <li>Version management of autonomous driving software via Docker</li>

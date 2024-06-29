@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "010-7174-4906 • dngusmoon@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a Software and AI Engineer specializing in designing and developing the internal software for autonomous vehicles, with a primary focus on trajectory prediction using AI models. I am passionate about learning new fields and excel in effective communication and collaboration with others.</p>"
+resume_header_intro: "<p>I am a Software and AI Engineer specializing in designing and developing the software for autonomous vehicles, with a primary focus on trajectory prediction using AI models and Vision-Language models. I am passionate about learning new fields and excel in effective communication and collaboration with others.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

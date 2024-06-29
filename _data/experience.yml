@@ -9,7 +9,7 @@
       <li>Trajectory prediction for autonomous vehicles</li>
       <li>Conversion of the prediction module to other platforms</li>
       <li>HD map management for prediction module</li>
-      <li>Integration of Autonomous Algorithm Verification Simulator and Traffic Simulator</li>
+      <li>Integration of autonomous algorithm verification simulator and traffic simulator</li>
       <li>Visualization the current state and perception results of autonomous vehicles</li>
       <li>V2X for autonomous systems</li>
     </ul>
