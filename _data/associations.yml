@@ -1,15 +1,17 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- title: "VisionTrap: Vision‑Augmented Trajectory Prediction Guided by Textual Descriptions"
+- title: "VisionTrap: Vision‑Augmented Trajectory Prediction Guided by Textual Descriptions (Link)"
   conference: ECCV (Accepted)
   year: 2024
-  authors: 2nd Author
+  authors: Seokha Moon, <strong>Hyun Woo</strong>, Hongbeen Park, Haeji Jung, Reza Mahjourian, Hyung-gun Chi, Hyerin Lim, Sangpil Kim, Jinkyu Kim
+  url: "https://arxiv.org/abs/2407.12345"
 
-- title: "RUFI: Reducing Uncertainty in behavior prediction with Future Information"
+- title: "RUFI: Reducing Uncertainty in behavior prediction with Future Information (Link)"
   conference: CVPRW
   year: 2023
   authors: Seokha Moon, Sejeong Lee, <strong>Hyun Woo</strong>, Kyuhwan Yeon, Hayoung Kim, Seong‑Gyun Jeong, Jinkyu Kim
+  url: "https://vcad.site/papers/19/CameraReady/paper.pdf"
 
 - title: 사전 학습된 Image Captioning 모델의 특수 도메인 데이터셋을 통한 미세 조정에 대한 연구
   conference: 대한전자공학회 하계학술대회
