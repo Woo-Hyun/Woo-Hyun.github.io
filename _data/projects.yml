@@ -9,7 +9,7 @@
   url: "https://youtu.be/J1NKhE-_S3M"
   description: Prediction task mananger for autonomous vehicles
     <ul class="resume-item-list">
-      <li>Development and maintenance of autonomous vehicle trajectory prediction module based on Apollo platform</li>
+      <li>Development and integration of trajectory prediction module from scratch using Apollo platform</li>
       <li>Conversion of the prediction module to other platforms</li>
       <li>Porting the prediction module to embedded environments</li>
       <li>Improvement of scenario classification algorithm for prediction module</li>
