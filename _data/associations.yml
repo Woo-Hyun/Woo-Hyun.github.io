@@ -2,7 +2,7 @@
 # comment out the urls if you do not wish to display them
 
 - title: "VisionTrap: Vision‑Augmented Trajectory Prediction Guided by Textual Descriptions (Link)"
-  conference: ECCV (Accepted)
+  conference: ECCV
   year: 2024
   authors: Seokha Moon, <strong>Hyun Woo</strong>, Hongbeen Park, Haeji Jung, Reza Mahjourian, Hyung-gun Chi, Hyerin Lim, Sangpil Kim, Jinkyu Kim
   url: "https://arxiv.org/abs/2407.12345"
