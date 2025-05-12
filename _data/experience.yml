@@ -1,5 +1,15 @@
 # Jobs
 # VP of Global Communications
+
+- company: Korea Intelligent Automotive Parts Promotion Institute (Link)
+  position: Researcher
+  duration: Apr, 2025 &mdash; Present
+  url: "https://www.kiapi.or.kr/"
+  summary: Digital Platform Team, Strategic Planning Division
+    <ul class="resume-item-list">
+      <li>TBU</li>
+    </ul>
+
 - company: Korea Electronics Technology Institute (Link)
   position: Researcher
   duration: Sep, 2020 &mdash; Aug, 2024
@@ -14,17 +24,17 @@
       <li>V2X for autonomous systems</li>
     </ul>
 
-- company: MISYS Lab, Soongsil University (Link)
-  position: Research Intern
-  duration: Jan, 2018 &mdash; Sep, 2019
-  url: "https://sites.google.com/view/misysssu"
-  summary: Autonomous Vehicle Development Team
-    <ul class="resume-item-list">
-      <li>Planning trajectory following</li>
-      <li>Development of CAN and V2X interface</li>
-      <li>Software version management using Docker</li>
-      <li>Research for system call and device driver</li>
-    </ul>
+# - company: MISYS Lab, Soongsil University (Link)
+#   position: Research Intern
+#   duration: Jan, 2018 &mdash; Sep, 2019
+#   url: "https://sites.google.com/view/misysssu"
+#   summary: Autonomous Vehicle Development Team
+#     <ul class="resume-item-list">
+#       <li>Planning trajectory following</li>
+#       <li>Development of CAN and V2X interface</li>
+#       <li>Software version management using Docker</li>
+#       <li>Research for system call and device driver</li>
+#     </ul>
 
 # Director of Digital Stratgy
 - company: 대한민국 해병대 (Link)
